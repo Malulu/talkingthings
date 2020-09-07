@@ -20,4 +20,17 @@ This is a repository of references for the Talking Things project, which address
 [VOX](https://www.vox.com/future-perfect/2019/6/12/18660353/siri-alexa-sexism-voice-assistants-un-study).
 
 
+***Why Siri and Alexa Weren’t Built to Smack Down Harassment***
+[WIRED](https://www.wired.com/story/why-siri-and-alexa-werent-built-to-smack-down-harassment/).
 
+
+***Growing up with Alexa: A child's relationship with Amazon's voice assistant***
+[CNN](https://edition.cnn.com/2018/10/16/tech/alexa-child-development/index.html).
+
+
+**Meet Q. The first genderless voice***
+[Q](https://www.genderlessvoice.com/).
+
+
+***Microsoft’s Cortana gets sexually harassed, but she fights back***
+[Digital Trends](https://www.digitaltrends.com/cool-tech/microsoft-cortana-sexual-harassment/).
