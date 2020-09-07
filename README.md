@@ -34,3 +34,19 @@ This is a repository of references for the Talking Things project, which address
 
 ***Microsoft’s Cortana gets sexually harassed, but she fights back***
 [Digital Trends](https://www.digitaltrends.com/cool-tech/microsoft-cortana-sexual-harassment/).
+
+
+**Achieve gender equality and empower all women and girls***
+[United Nations](https://www.un.org/sustainabledevelopment/gender-equality/).
+
+
+***The Smart Wife. Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot***
+[MIT Press](https://mitpress.mit.edu/books/smart-wife).
+
+
+**Meaningful Voice Interactions***
+[TU Delft](https://repository.tudelft.nl/islandora/object/uuid%3A9e944d34-b54e-4845-9b6d-e4dcc874ddb1).
+
+
+***Intimate Futures: Staying with the Trouble of Digital Personal Assistants through Design Fiction***
+[Søndergaard et al.](https://dl.acm.org/doi/abs/10.1145/3196709.3196766).
